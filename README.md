@@ -11,7 +11,8 @@ El contenido de estos dataset son de ejemplo, no contiene datos reales, fueron g
 
 ## Estructura del repositorio
 ├── DBs/    # Bases de datos utilizadas en los ejemplos      
-├── *.R     # Scripts y ejercicios en R └── README.md     
+├── *.R     # Scripts y ejercicios en R 
+└── README.md     
 
 
 ## Objetivo
