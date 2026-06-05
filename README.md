@@ -20,5 +20,5 @@ Este repositorio busca recopilar códigos, ejercicios y conjuntos de datos que p
 
 ## Autor
 
-Lic. Suly Soto
-Ing. Moises Meza
+- Lic. Suly Soto
+- Ing. Moises Meza
