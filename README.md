@@ -1,6 +1,7 @@
 # Códigos de R
 
 Repositorio destinado al aprendizaje de R mediante ejemplos prácticos.
+El contenido de estos dataset son de ejemplo, no contiene datos reales, fueron generados usando GEMINI FLASH.
 
 ## Contenido
 
