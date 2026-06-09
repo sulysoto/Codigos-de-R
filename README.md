@@ -20,6 +20,15 @@ El contenido de estos dataset son de ejemplo, no contiene datos reales, fueron g
 
 Este repositorio busca recopilar códigos, ejercicios y conjuntos de datos que permitan aprender y practicar programación en R, desde conceptos básicos hasta aplicaciones de análisis de datos.
 
+## USO
+### COLAB
+```python
+!git clone https://github.com/sulysoto/Codigos-de-R.git
+```
+> import glob
+> l_db = glob.glob("./Codigos-de-R/DBs/**.csv", recursive=True)
+
+
 ## Autor
 
 - Lic. Suly Soto
