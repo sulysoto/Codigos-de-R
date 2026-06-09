@@ -1,0 +1,13 @@
+id,cargo,salario,experiencia_anos,satisfaccion
+1,Asistente,1200,1,Alta
+2,Asistente,1350,2,Media
+3,Asistente,1100,1,Baja
+4,Asistente,1400,3,Alta
+5,Analista,2100,4,Media
+6,Analista,2500,5,Alta
+7,Analista,2300,3,Alta
+8,Analista,2200,4,Baja
+9,Gerente,4500,8,Alta
+10,Gerente,5200,10,Alta
+11,Gerente,4800,7,Media
+12,Gerente,6000,12,Alta
