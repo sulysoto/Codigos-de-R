@@ -25,9 +25,10 @@ Este repositorio busca recopilar códigos, ejercicios y conjuntos de datos que p
 ```python
 !git clone https://github.com/sulysoto/Codigos-de-R.git
 ```
-> import glob
-> l_db = glob.glob("./Codigos-de-R/DBs/**.csv", recursive=True)
-
+```python
+import glob
+l_db = glob.glob("./Codigos-de-R/DBs/**.csv", recursive=True)
+```
 
 ## Autor
 
